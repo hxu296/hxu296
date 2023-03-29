@@ -1,3 +1,22 @@
+<h1 align='center'>
+  Hi there 👋 I'm Huan👨‍💻
+</h1>
+
+<p align='center'>
+  proud 铲屎官 of momo, the cat on my profile picture
+</p>
+
+<p align='center'>
+  
+  <a href="https://medium.com/@hxu296">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/huan-xu-999700169">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 [![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxu296&count_private=true)](https://github.com/hxu296/github-readme-stats)
 [![Snake Game](https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg)
 <!--
