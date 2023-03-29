@@ -7,18 +7,24 @@
 </p>
 
 <p align='center'>
-  
   <a href="https://medium.com/@hxu296">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/huan-xu-999700169">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
-[![Huan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxu296&count_private=true)](https://github.com/hxu296/github-readme-stats)
-[![Snake Game](https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg)
+<p align='center'>
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=hxu296&show_icons=true&count_private=true" />
+</picture>
+
+<picture>
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+</picture>
+</p>
+
 <!--
 **hxu296/hxu296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
