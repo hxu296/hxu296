@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  proud 铲屎官 of momo, the cat on my profile picture
+  proud 铲屎官 (Chief Litter Officer) of momo, the cat on my profile picture
 </p>
 
 <p align='center'>
